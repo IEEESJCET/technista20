@@ -1234,6 +1234,7 @@ input:required {
 .main-footer-area .single-footer-widget .footer-logo {
   display: block;
   margin-bottom: 20px;
+  -webkit-font-smoothing: antialiased;
 }
 .main-footer-area .single-footer-widget .social-info a {
   height: 34px;
